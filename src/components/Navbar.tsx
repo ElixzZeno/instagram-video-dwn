@@ -16,18 +16,18 @@ const navbarLinks = [
     target: "_self",
   },
   {
-    name: "Creator",
+    name: "Creator/Facebook",
     href: "https://www.facebook.com/Asmit021",
     target: "_blank",
   },
   {
-    name: "Admin",
-    href: "",
+    name: "WhatsApp",
+    href: "https://bit.ly/43BHvrd",
     target: "_blank",
   },
   {
-    name: "Contact",
-    href: "https://www.facebook.com/Asmit021",
+    name: "insta",
+    href: "https://www.instagram.com/_datboii.asmit?igsh=MTN0N2Y5cDNqN2lvbw==",
     target: "_blank",
   },
 ];
